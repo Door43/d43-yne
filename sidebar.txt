@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yne:home|Door43 (yne)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yne|d43-yne repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yne/archive/master.zip|d43-yne.zip]]
+
+**Recent Changes**
+{{changes>ns = yne}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yne|Ethnologue data]]
+
